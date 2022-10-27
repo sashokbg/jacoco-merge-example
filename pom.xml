@@ -27,7 +27,7 @@
                 <executions>
                     <execution>
                         <configuration>
-                            <destFile>merged.exec</destFile>
+                            <destFile>target/merged.exec</destFile>
                             <fileSets>
                                 <fileSet>
                                     <directory>b/target</directory>
